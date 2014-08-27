@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SC_wikiparser", "SC_wikiparser\SC_wikiparser.pyproj", "{C26252DF-396C-47DF-87F4-D11F6EA2944B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64A519B5-DFEB-4433-9DCD-CFDA20429843}"
+	ProjectSection(SolutionItems) = preProject
+		test_input.txt = test_input.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26252DF-396C-47DF-87F4-D11F6EA2944B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26252DF-396C-47DF-87F4-D11F6EA2944B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26252DF-396C-47DF-87F4-D11F6EA2944B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26252DF-396C-47DF-87F4-D11F6EA2944B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
